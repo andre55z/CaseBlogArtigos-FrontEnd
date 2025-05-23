@@ -1,4 +1,4 @@
-# 🖼️ Blog Frontend
+# 🖼️ BlogArtigos Frontend
 
 Este é o **frontend** da aplicação de blog desenvolvida com **Vite + React + TypeScript**, conectada a uma API REST construída com Node.js e Express. A interface foi baseada em um modelo do Figma.
 
